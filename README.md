@@ -86,7 +86,7 @@ Data-Science-Internship-Tasks
 │── hard_task/
 │   └── hard_task_complete_analysis.py
 │
-│── screenshots/
+│── Screenshots/
 │   ├── easytaskgraphs.png
 │   ├── mediumtasks.png
 │   └── finaltask.png
