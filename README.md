@@ -87,9 +87,9 @@ Data-Science-Internship-Tasks
 │   └── hard_task_complete_analysis.py
 │
 │── screenshots/
-│   ├── task1_output.png
-│   ├── graphs_output.png
-│   └── correlation_heatmap.png
+│   ├── easytasks.png
+│   ├── mediumtasks.png
+│   └── finaltask.png
 │
 │── requirements.txt
 │── README.md
