@@ -338,7 +338,7 @@ This project can be improved further by:
 
 # 👩‍💻 Author
 
-**Keerthi Shetty**
+**Shetty Keerthi**
 
 📌 Data Science Internship Project
 📌 GitHub Repository Submission
